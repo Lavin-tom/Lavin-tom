@@ -21,3 +21,6 @@
   <img alt="weblate" src="https://img.shields.io/badge/-Weblate-2eccaa?style=flat-square&logo=weblate&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" />
 </p>
+<!--START_SECTION:https://wakatime.com/api-->
+
+<!--END_SECTION:https://wakatime.com/api-->
