@@ -30,4 +30,10 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Markdown     46 mins         ███████████████████████▓░   94.90 %
+HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+```
+
 <!--END_SECTION:waka-->
