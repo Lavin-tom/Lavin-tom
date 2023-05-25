@@ -21,6 +21,13 @@
   <img alt="weblate" src="https://img.shields.io/badge/-Weblate-2eccaa?style=flat-square&logo=weblate&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" />
 </p>
-<!--START_SECTION:https://wakatime.com/api-->
 
-<!--END_SECTION:https://wakatime.com/api-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lavin-tom/Lavin-tom/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
