@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lavin Tom K Abraham</h1>
-<h3 align="center">A passionate developer from India</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&vCenter=true&center=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Lavin+Tom+K+Abraham;A+passionate+developer+from+India"/></a>
+</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -23,11 +24,13 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lavin-tom/Lavin-tom/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lavin-tom/Lavin-tom/svg_out/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/svg_out/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lavin-tom/lavin-tom/svg_out/github-contribution-grid-snake.svg">
 </picture>
 
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
