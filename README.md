@@ -22,7 +22,11 @@
   <img alt="weblate" src="https://img.shields.io/badge/-Weblate-2eccaa?style=flat-square&logo=weblate&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" />
 </p>
-![](https://komarev.com/ghpvc/?username=lavin-tom&color=green)![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build)![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time)
+
+![](https://komarev.com/ghpvc/?username=lavin-tom&color=green)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
