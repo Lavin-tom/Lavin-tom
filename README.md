@@ -33,6 +33,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
 </picture>
 
+![](https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=lavin-tom&no-bg=true&no-frame=true&rank=-?&column=7&theme=algolia)
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
