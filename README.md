@@ -27,33 +27,33 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time)
 
+![](https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavin-tom&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=swig)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=lavin-tom&no-bg=true&no-frame=true&rank=-?&column=7&theme=algolia)
-
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```txt
-From: 23 May 2023 - To: 10 June 2023
+```text
+From: 23 May 2023 - To: 27 May 2023
 
-Total Time: 29 hrs 54 mins
+Total Time: 3 hrs 46 mins
 
-HTML         9 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.95 %
-CSS          5 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-C            5 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Kotlin       3 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-JavaScript   2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Markdown     1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-YAML         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Python       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Batchfile    10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Text         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Markdown     1 hr 6 mins     ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+C            58 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+YAML         52 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+HTML         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Python       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Text         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+C++          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
