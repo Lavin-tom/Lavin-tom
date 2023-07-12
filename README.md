@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Github Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavin-tom&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=swig">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Github-Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavin-tom&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=swig">
 </p>
 
 <picture >
