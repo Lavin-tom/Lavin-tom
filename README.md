@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Lavin-tom"><img width="100%" src="https://github.com/Lavin-tom/Lavin-tom/blob/main/assets/Banner.png" /></a></p>
+<p align="center"><a href="https://github.com/Lavin-tom"><img width="100%" src="https://github.com/Lavin-tom/Lavin-tom/blob/main/assets/Banner_trianglify.png" /></a></p>
 
 <h3>Things I code with</h3>
 <p align="center">
