@@ -27,7 +27,8 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time)
 
-![](https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Lavin-tom&theme=transparent&hide_border=true)
+![Github status](https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavin-tom&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=swig)
 
 <picture>
