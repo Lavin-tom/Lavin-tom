@@ -1,9 +1,7 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&vCenter=true&center=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Lavin+Tom+K+Abraham;A+passionate+developer+from+India"/></a>
-</p>
+<p align="center"><a href="https://github.com/Lavin-tom"><img width="100%" src="https://github.com/Lavin-tom/tree/main/assets/Banner.png" /></a></p>
 
 <h3>Things I code with</h3>
-<p>
+<p align="center">
   <img alt="C" src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-8DD6F9?style=flat-square&logo=cplusplus&logoColor=white" /> 
   <img alt="C-Embedded" src="https://img.shields.io/badge/-C embedded-46a2f1?style=flat-square&logo=C&logoColor=white" />
@@ -21,11 +19,10 @@
   <img alt="neo vim" src="https://img.shields.io/badge/-Neovim-57a143?style=flat-square&logo=neovim&logoColor=white" />
   <img alt="weblate" src="https://img.shields.io/badge/-Weblate-2eccaa?style=flat-square&logo=weblate&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" />
+    <img alt="linux" src="https://komarev.com/ghpvc/?username=lavin-tom&color=green" />
+    <img alt="linux" src="https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build" />
+    <img alt="linux" src="https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=lavin-tom&color=green)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Lavin-tom&theme=transparent&hide_border=true" alt="GitHub Streak" />
