@@ -1,5 +1,4 @@
 <p align="center"><a href="https://github.com/Lavin-tom"><img width="100%" src="https://github.com/Lavin-tom/Lavin-tom/blob/main/assets/Banner_trianglify.png" /></a></p>
-
 <h3>Things I code with</h3>
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white" />
@@ -19,9 +18,9 @@
   <img alt="neo vim" src="https://img.shields.io/badge/-Neovim-57a143?style=flat-square&logo=neovim&logoColor=white" />
   <img alt="weblate" src="https://img.shields.io/badge/-Weblate-2eccaa?style=flat-square&logo=weblate&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" />
-    <img alt="linux" src="https://komarev.com/ghpvc/?username=lavin-tom&color=green" />
-    <img alt="linux" src="https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build" />
-    <img alt="linux" src="https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time" />
+  <img alt="profile_visit" src="https://komarev.com/ghpvc/?username=lavin-tom&color=green" />
+  <img alt="animation-build-status" src="https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/animation.yml?label=Animation%20build" />
+  <img alt="waka-time-build-status" src="https://img.shields.io/github/actions/workflow/status/lavin-tom/lavin-tom/main.yml?label=Waka-time" />
 </p>
 
 <p align="center">
@@ -32,20 +31,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lavin-tom&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Github-Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavin-tom&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=swig">
 </p>
 
-<picture >
+<p align="center"><picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
-  <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lavin-tom/lavin-tom/output/github-contribution-grid-snake.svg">
-  </p>
-</picture>
+</picture></p>
 
 <p align ="center">
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Lavin-tom&theme=github-dark&hide_border=true">
 </p>
 
 <p align="center">
-
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
