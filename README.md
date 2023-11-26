@@ -40,27 +40,3 @@
 <p align ="center">
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Lavin-tom&theme=github-dark&hide_border=true">
 </p>
-
-<p align="center">
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-From: 23 May 2023 - To: 24 November 2023
-
-Total Time: 143 hrs 28 mins
-
-Python        30 hrs 36 mins  >>>>>--------------------   21.34 %
-Markdown      24 hrs 46 mins  >>>>---------------------   17.27 %
-C             23 hrs 51 mins  >>>>---------------------   16.62 %
-C++           13 hrs 13 mins  >>-----------------------   09.21 %
-Kotlin        12 hrs 46 mins  >>-----------------------   08.91 %
-HTML          9 hrs 39 mins   >>-----------------------   06.73 %
-JSON          7 hrs 30 mins   >------------------------   05.24 %
-CSS           5 hrs 46 mins   >------------------------   04.02 %
-JavaScript    5 hrs 12 mins   >------------------------   03.63 %
-YAML          3 hrs 41 mins   >------------------------   02.57 %
-```
-
-<!--END_SECTION:waka-->
-</p>
